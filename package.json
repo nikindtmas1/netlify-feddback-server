@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/nikindtmas1/netlify-feddback-server/issues"
   },
-  "homepage": "https://github.com/nikindtmas1/netlify-feddback-server#readme"
+  "homepage": "https://github.com/nikindtmas1/netlify-feddback-server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "netlify-lambda": "^2.0.16",
+    "serverless-http": "^3.2.0"
+  }
 }
